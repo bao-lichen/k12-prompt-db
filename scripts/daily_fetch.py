@@ -12,7 +12,7 @@ if os.path.exists(env_path):
             os.environ[k] = v
 
 # ── 读取配置 ──────────────────────────────────────
-cfg = json.load(open(os.path.expanduser("~/k12-prompt-db/config/rotation.json")))
+cfg = json.load(open(os.path.join(os.path.dirname(__file__), "..", "config", "rotation.json")))
 MIMO_API_KEY = os.environ.get("MIMO_API_KEY", "")
 
 # ── 计算今日焦点 ──────────────────────────────────
