@@ -74,7 +74,7 @@ for i, item in enumerate(samples[:10]):
     print(f"  ✓ 生成第 {i+1} 条")
 
 # ── 写入数据库 ────────────────────────────────────
-db_path = os.path.expanduser("~/k12-prompt-db/data/prompts.json")
+db_path = os.path.join(os.path.dirname(__file__), "..", "data", "prompts.json")
 if os.path.exists(db_path):
     db = json.load(open(db_path))
 else:
