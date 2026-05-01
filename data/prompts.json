@@ -119,6 +119,126 @@
       "source": "ceval/high_school_mathematics",
       "date_added": "2026-05-01",
       "active": true
+    },
+    {
+      "id": "K12-20260501-001",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-002",
+      "prompt": "已知平面α与平面β平行，直线a在平面α内，直线b在平面β内。则直线a与直线b的位置关系是（ ）  \nA. 一定平行  \nB. 一定相交  \nC. 一定异面  \nD. 可能平行，也可能异面",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-003",
+      "prompt": "小明在操场上从原点O出发，沿向量$\\vec{a}=(3,2)$的方向走到点A；小华也从原点O出发，沿向量$\\vec{b}=(2,0)$的方向走到点B。请问，小明的前进方向与小华的前进方向夹角的余弦值是多少？",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-004",
+      "prompt": "已知$\\sin(\\frac{\\pi}{4}-x)=\\frac{4}{5}$，则$\\sin2x$的值为____",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-005",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-006",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-007",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-008",
+      "prompt": "某中学为培养学生兴趣，开设“书法”、“绘画”、“音乐”3门艺术选修课，要求学生从初一到初三的3个学年内将这3门课全部选修，每学年至多选1门。则每位同学共有多少种不同的选课安排方式？",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-009",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-010",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
     }
   ]
 }
