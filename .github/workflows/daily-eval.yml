@@ -1,0 +1,29 @@
+name: Daily K12 Prompt Fetch
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv
+        run: pip install uv
+
+      - name: Run fetch script
+        env:
+          MIMO_API_KEY: ${{ secrets.MIMO_API_KEY }}
+        run: |
+          cd $GITHUB_WORKSPACE
+          uv run --with datasets --with requests python3 scripts/daily_fetch.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data/prompts.json
+          git commit -m "daily: $(date +%Y-%m-%d)" || echo "no changes"
+          git push
