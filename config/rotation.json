@@ -1,0 +1,16 @@
+{
+  "subjects": ["数学","语文","英语","物理","化学","生物","历史","地理","政治"],
+  "abilities": ["解题能力","解析讲解","错误识别","知识问答","指令遵循","安全边界"],
+  "grades": ["小学","初中","高中"],
+  "ceval_map": {
+    "数学": "high_school_mathematics",
+    "语文": "high_school_chinese",
+    "英语": "high_school_english",
+    "物理": "high_school_physics",
+    "化学": "high_school_chemistry",
+    "生物": "high_school_biology",
+    "历史": "high_school_history",
+    "地理": "high_school_geography",
+    "政治": "high_school_politics"
+  }
+}

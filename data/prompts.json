@@ -1,0 +1,124 @@
+{
+  "prompts": [
+    {
+      "id": "K12-20260501-001",
+      "prompt": "一个长方形的周长是36厘米，已知它的长是宽的2倍，那么这个长方形的宽是多少厘米？",
+      "subject": "数学",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-002",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-003",
+      "prompt": "某文具店有钢笔和铅笔两种笔，第 \\(n\\) 天钢笔数量比铅笔少 \\(2n\\) 支。若无论哪一天（\\(n\\) 为大于0的整数），钢笔数量始终比铅笔少的数量少 \\(a\\) 支，则整数 \\(a\\) 的最小值是多少？",
+      "subject": "数学",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-004",
+      "prompt": "现在有两张长方形的纸板（代表两个平面），它们的摆放方式可以用两个“倾斜方向”来描述：\n第一张纸板的倾斜方向是 (1, 2)。\n第二张纸板的倾斜方向是 (3, 1)。\n\n**问题：** 请计算这两个倾斜方向的“夹角余弦值”。\n（提示：先计算两个倾斜方向的“方向积”：1×3 + 2×1。再分别计算两个方向的“长度”：第一个方向的长度是 √(1²+2²)，第二个方向的长度是 √(3²+1²)。最后用“方向积”除以“两个长度的乘积”。）",
+      "subject": "数学",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-005",
+      "prompt": "小明的书桌上有两张完全平行的水平桌面。他在左边桌面上画了一条线段 $AB$，在右边桌面上画了一条线段 $CD$（两条线段都在各自桌面上）。请问下面哪种情况是一定正确的？\n\nA. 线段 $AB$ 平行于线段 $CD$  \nB. 线段 $AB$ 和线段 $CD$ 在同一个平面内  \nC. 线段 $AB$ 所在的桌面与线段 $CD$ 所在的桌面互相平行",
+      "subject": "数学",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-006",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-007",
+      "prompt": "小明的手电筒里装了三节新电池，手电筒只有在至少一节电池有电时才能正常亮灯。每节电池有电的可能性都是 $\\frac{3}{4}$。假设手电筒现在是亮着的，请问此时恰好只有一节电池没电的可能性是多少？",
+      "subject": "数学",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-008",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-009",
+      "prompt": "超市里有三种折扣方式。小明先从原价100元的巧克力开始，按照第一种折扣减少了40元，接着按照第二种折扣将剩下价格的$\\frac{1}{5}$减去。已知第二种折扣减去的钱是最后实付价格的2倍，请问小明最后实际支付了多少钱？",
+      "subject": "数学",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    },
+    {
+      "id": "K12-20260501-010",
+      "prompt": "一块长8厘米、宽6厘米的长方形卡片上，画有一个直径为2厘米的圆形。现在将一颗绿豆随机撒在卡片上，绿豆落在卡片上每一点的可能性都相同。请问，绿豆落在圆形外面的概率是多少？",
+      "subject": "数学",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-01",
+      "active": true
+    }
+  ]
+}
