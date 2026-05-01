@@ -3,11 +3,13 @@ from datetime import date
 from datasets import load_dataset
 
 # ── 自动加载 .env ─────────────────────────────────
-for _line in open(os.path.join(os.path.dirname(__file__), "..", ".env")):
-    _line = _line.strip()
-    if _line and "=" in _line and not _line.startswith("#"):
-        _k, _v = _line.split("=", 1)
-        os.environ.setdefault(_k.strip(), _v.strip())
+env_path = os.path.join(os.path.dirname(__file__), "..", ".env")
+if os.path.exists(env_path):
+    for line in open(env_path):
+        line = line.strip()
+        if line and not line.startswith("#"):
+            k, v = line.split("=", 1)
+            os.environ[k] = v
 
 # ── 读取配置 ──────────────────────────────────────
 cfg = json.load(open(os.path.expanduser("~/k12-prompt-db/config/rotation.json")))
