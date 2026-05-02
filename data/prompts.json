@@ -359,6 +359,126 @@
       "source": "ceval/high_school_mathematics",
       "date_added": "2026-05-02",
       "active": true
+    },
+    {
+      "id": "K12-20260502-001",
+      "prompt": "",
+      "subject": "语文",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chinese",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-002",
+      "prompt": "下列各句中，没有语病的一句是____\n\nA. 为了防止此类事故不再发生，我们加强了安全教育并制定了严格的规章制度。\nB. 他的画作在继承传统的基础上大胆创新，这种尝试在美术界是史无前例的。\nC. 随着社会的发展和科技的进步，使人们的物质文化生活水平日益提高。\nD. 能否坚持正确的方向，是我们事业成功的关键。",
+      "subject": "语文",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chinese",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-003",
+      "prompt": "",
+      "subject": "语文",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chinese",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-004",
+      "prompt": "",
+      "subject": "语文",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chinese",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-005",
+      "prompt": "生物与环境的相互作用，情况十分复杂：____，即使是同一种生物，面对不同环境因素的应对策略也有差异。",
+      "subject": "语文",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chinese",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-006",
+      "prompt": "",
+      "subject": "语文",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chinese",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-007",
+      "prompt": "",
+      "subject": "语文",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chinese",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-008",
+      "prompt": "",
+      "subject": "语文",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chinese",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-009",
+      "prompt": "",
+      "subject": "语文",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chinese",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-010",
+      "prompt": "下列各句标点符号使用合乎规范的一项是\n\nA. 公园里的花开了，有红的、白的、黄的……等等，真是五彩缤纷。\n\nB. 他看了看报纸，说道：“这些新闻写得真好”！\n\nC. 随着科技发展——例如人工智能、大数据等——我们的生活发生了巨大变化。\n\nD. 我今天去了超市，买了苹果，香蕉，和橙子。",
+      "subject": "语文",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chinese",
+      "date_added": "2026-05-02",
+      "active": true
     }
   ]
 }
