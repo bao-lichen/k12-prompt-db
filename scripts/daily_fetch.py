@@ -18,8 +18,8 @@ MIMO_API_KEY = os.environ.get("MIMO_API_KEY", "")
 # ── 计算今日焦点 ──────────────────────────────────
 start_date = date(2026, 5, 1)
 day_index = (date.today() - start_date).days % 54
-subject = cfg["subjects"][day_index // 6]
-ability = cfg["abilities"][day_index % 6]
+subject = cfg["subjects"][day_index % 9]
+ability = cfg["abilities"][(day_index // 9) % 6]
 grade   = random.choice(cfg["grades"])
 ceval_name = cfg["ceval_map"][subject]
 
