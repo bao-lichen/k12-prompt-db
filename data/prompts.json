@@ -239,6 +239,126 @@
       "source": "ceval/high_school_mathematics",
       "date_added": "2026-05-01",
       "active": true
+    },
+    {
+      "id": "K12-20260502-001",
+      "prompt": "已知平面α // 平面β，直线l⊂平面α，直线a、b⊂平面β，且a与b相交。请判断直线l与直线a、b可能的位置关系，并写出推理过程。",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-002",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-003",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-004",
+      "prompt": "已知抛物线 \\( y^2 = 2px \\)（\\( p > 0 \\)）的焦点与椭圆 \\( \\frac{x^2}{8} + \\frac{y^2}{4} = 1 \\) 的右焦点重合。  \n（1）求 \\( p \\) 的值；  \n（2）请逐步解释你的解题过程，说明每一步的数学依据。",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-005",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-006",
+      "prompt": "17世纪，在研究天文学的过程中，为了简化大数运算，苏格兰数学家纳皮尔发明了对数，对数的思想方法即把乘方和乘法运算分别转化为乘法和加法，数学家拉普拉斯称赞为“对数的发明在实效上等于把天文学家的寿命延长了许多倍”.已知$\\lg2\\approx0.3010$，$\\lg3\\approx0.4771$，设$N=32^4\\times108$，请利用对数的性质求出$\\lg N$的近似值，并由此确定$N$所在的区间（即$",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-007",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-008",
+      "prompt": "**【题目】**  \n已知函数 \\(g(x)=e^{x}-x^{2}\\)，若不等式  \n\\[g(x+1) > a e^{x} - 2(x+1)\\]  \n在 \\(x\\in (1, +\\infty)\\) 上恒成立，求实数 \\(a\\) 的取值范围。  \n**要求：** 请以解析讲解的形式，逐步说明解题思路与过程，包括如何转化不等式、如何分析函数单调性、如何讨论参数范围等关键步骤。",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-009",
+      "prompt": "已知双曲线方程为 $\\frac{x^{2}}{a^{2}}-\\frac{y^{2}}{b^{2}}=1\\ (a>0,b>0)$。过其一个焦点 $F$ 向一条渐近线作垂线，垂足为 $M$。延长 $FM$ 交 $y$ 轴于点 $E$，且满足 $|FM|=2|ME|$。\n\n请你作为高中数学辅导老师，向学生讲解如何求解该双曲线的离心率。要求：\n1.  分步写出完整的解题过程。\n2.  在每个关键步骤旁，用括号简要说明这一步所依据的核心知识点或几何性质。",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-02",
+      "active": true
+    },
+    {
+      "id": "K12-20260502-010",
+      "prompt": "",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-02",
+      "active": true
     }
   ]
 }
