@@ -85,6 +85,8 @@ if os.path.exists(db_path):
 else:
     db = {"prompts": []}
 
+existing_ids = {p["id"] for p in db["prompts"]}
+new_items = [p for p in new_items if p["id"] not in existing_ids]
 db["prompts"].extend(new_items)
 json.dump(db, open(db_path, "w"), ensure_ascii=False, indent=2)
 print(f"\n完成，今日新增 {len(new_items)} 条，数据库共 {len(db['prompts'])} 条")
