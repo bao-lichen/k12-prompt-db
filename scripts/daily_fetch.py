@@ -57,10 +57,15 @@ def make_variant(item, ability, grade):
 # ── 组装入库数据 ──────────────────────────────────
 today = str(date.today())
 new_items = []
+seq = 0
 for i, item in enumerate(samples[:10]):
     variant = make_variant(item, ability, grade)
+    if not variant or not variant.strip():
+        print(f"  ✗ 第 {i+1} 条生成为空，跳过")
+        continue
+    seq += 1
     new_items.append({
-        "id": f"K12-{today.replace('-','')}-{i+1:03d}",
+        "id": f"K12-{today.replace('-','')}-{seq:03d}",
         "prompt": variant,
         "subject": subject,
         "grade": grade,
