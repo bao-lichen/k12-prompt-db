@@ -13,18 +13,6 @@
       "active": true
     },
     {
-      "id": "K12-20260501-002",
-      "prompt": "",
-      "subject": "数学",
-      "grade": "小学",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-01",
-      "active": true
-    },
-    {
       "id": "K12-20260501-003",
       "prompt": "某文具店有钢笔和铅笔两种笔，第 \\(n\\) 天钢笔数量比铅笔少 \\(2n\\) 支。若无论哪一天（\\(n\\) 为大于0的整数），钢笔数量始终比铅笔少的数量少 \\(a\\) 支，则整数 \\(a\\) 的最小值是多少？",
       "subject": "数学",
@@ -61,32 +49,8 @@
       "active": true
     },
     {
-      "id": "K12-20260501-006",
-      "prompt": "",
-      "subject": "数学",
-      "grade": "小学",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-01",
-      "active": true
-    },
-    {
       "id": "K12-20260501-007",
       "prompt": "小明的手电筒里装了三节新电池，手电筒只有在至少一节电池有电时才能正常亮灯。每节电池有电的可能性都是 $\\frac{3}{4}$。假设手电筒现在是亮着的，请问此时恰好只有一节电池没电的可能性是多少？",
-      "subject": "数学",
-      "grade": "小学",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-01",
-      "active": true
-    },
-    {
-      "id": "K12-20260501-008",
-      "prompt": "",
       "subject": "数学",
       "grade": "小学",
       "ability": "解题能力",
@@ -113,18 +77,6 @@
       "prompt": "一块长8厘米、宽6厘米的长方形卡片上，画有一个直径为2厘米的圆形。现在将一颗绿豆随机撒在卡片上，绿豆落在卡片上每一点的可能性都相同。请问，绿豆落在圆形外面的概率是多少？",
       "subject": "数学",
       "grade": "小学",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-01",
-      "active": true
-    },
-    {
-      "id": "K12-20260501-001",
-      "prompt": "",
-      "subject": "数学",
-      "grade": "初中",
       "ability": "解题能力",
       "type": "选择题",
       "risk": "正常",
@@ -169,68 +121,8 @@
       "active": true
     },
     {
-      "id": "K12-20260501-005",
-      "prompt": "",
-      "subject": "数学",
-      "grade": "初中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-01",
-      "active": true
-    },
-    {
-      "id": "K12-20260501-006",
-      "prompt": "",
-      "subject": "数学",
-      "grade": "初中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-01",
-      "active": true
-    },
-    {
-      "id": "K12-20260501-007",
-      "prompt": "",
-      "subject": "数学",
-      "grade": "初中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-01",
-      "active": true
-    },
-    {
       "id": "K12-20260501-008",
       "prompt": "某中学为培养学生兴趣，开设“书法”、“绘画”、“音乐”3门艺术选修课，要求学生从初一到初三的3个学年内将这3门课全部选修，每学年至多选1门。则每位同学共有多少种不同的选课安排方式？",
-      "subject": "数学",
-      "grade": "初中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-01",
-      "active": true
-    },
-    {
-      "id": "K12-20260501-009",
-      "prompt": "",
-      "subject": "数学",
-      "grade": "初中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-01",
-      "active": true
-    },
-    {
-      "id": "K12-20260501-010",
-      "prompt": "",
       "subject": "数学",
       "grade": "初中",
       "ability": "解题能力",
@@ -253,30 +145,6 @@
       "active": true
     },
     {
-      "id": "K12-20260502-002",
-      "prompt": "",
-      "subject": "数学",
-      "grade": "高中",
-      "ability": "解析讲解",
-      "type": "解答题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
-      "id": "K12-20260502-003",
-      "prompt": "",
-      "subject": "数学",
-      "grade": "高中",
-      "ability": "解析讲解",
-      "type": "解答题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
       "id": "K12-20260502-004",
       "prompt": "已知抛物线 \\( y^2 = 2px \\)（\\( p > 0 \\)）的焦点与椭圆 \\( \\frac{x^2}{8} + \\frac{y^2}{4} = 1 \\) 的右焦点重合。  \n（1）求 \\( p \\) 的值；  \n（2）请逐步解释你的解题过程，说明每一步的数学依据。",
       "subject": "数学",
@@ -289,32 +157,8 @@
       "active": true
     },
     {
-      "id": "K12-20260502-005",
-      "prompt": "",
-      "subject": "数学",
-      "grade": "高中",
-      "ability": "解析讲解",
-      "type": "解答题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
       "id": "K12-20260502-006",
       "prompt": "17世纪，在研究天文学的过程中，为了简化大数运算，苏格兰数学家纳皮尔发明了对数，对数的思想方法即把乘方和乘法运算分别转化为乘法和加法，数学家拉普拉斯称赞为“对数的发明在实效上等于把天文学家的寿命延长了许多倍”.已知$\\lg2\\approx0.3010$，$\\lg3\\approx0.4771$，设$N=32^4\\times108$，请利用对数的性质求出$\\lg N$的近似值，并由此确定$N$所在的区间（即$",
-      "subject": "数学",
-      "grade": "高中",
-      "ability": "解析讲解",
-      "type": "解答题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
-      "id": "K12-20260502-007",
-      "prompt": "",
       "subject": "数学",
       "grade": "高中",
       "ability": "解析讲解",
@@ -349,30 +193,6 @@
       "active": true
     },
     {
-      "id": "K12-20260502-010",
-      "prompt": "",
-      "subject": "数学",
-      "grade": "高中",
-      "ability": "解析讲解",
-      "type": "解答题",
-      "risk": "正常",
-      "source": "ceval/high_school_mathematics",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
-      "id": "K12-20260502-001",
-      "prompt": "",
-      "subject": "语文",
-      "grade": "高中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_chinese",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
       "id": "K12-20260502-002",
       "prompt": "下列各句中，没有语病的一句是____\n\nA. 为了防止此类事故不再发生，我们加强了安全教育并制定了严格的规章制度。\nB. 他的画作在继承传统的基础上大胆创新，这种尝试在美术界是史无前例的。\nC. 随着社会的发展和科技的进步，使人们的物质文化生活水平日益提高。\nD. 能否坚持正确的方向，是我们事业成功的关键。",
       "subject": "语文",
@@ -385,80 +205,8 @@
       "active": true
     },
     {
-      "id": "K12-20260502-003",
-      "prompt": "",
-      "subject": "语文",
-      "grade": "高中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_chinese",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
-      "id": "K12-20260502-004",
-      "prompt": "",
-      "subject": "语文",
-      "grade": "高中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_chinese",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
       "id": "K12-20260502-005",
       "prompt": "生物与环境的相互作用，情况十分复杂：____，即使是同一种生物，面对不同环境因素的应对策略也有差异。",
-      "subject": "语文",
-      "grade": "高中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_chinese",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
-      "id": "K12-20260502-006",
-      "prompt": "",
-      "subject": "语文",
-      "grade": "高中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_chinese",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
-      "id": "K12-20260502-007",
-      "prompt": "",
-      "subject": "语文",
-      "grade": "高中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_chinese",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
-      "id": "K12-20260502-008",
-      "prompt": "",
-      "subject": "语文",
-      "grade": "高中",
-      "ability": "解题能力",
-      "type": "选择题",
-      "risk": "正常",
-      "source": "ceval/high_school_chinese",
-      "date_added": "2026-05-02",
-      "active": true
-    },
-    {
-      "id": "K12-20260502-009",
-      "prompt": "",
       "subject": "语文",
       "grade": "高中",
       "ability": "解题能力",
