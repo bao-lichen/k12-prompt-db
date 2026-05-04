@@ -287,6 +287,42 @@
       "source": "ceval/high_school_physics",
       "date_added": "2026-05-03",
       "active": true
+    },
+    {
+      "id": "K12-20260504-001",
+      "prompt": "下列物质中，属于合成纤维的是（ ）  \nA. 蚕丝  \nB. 羊毛  \nC. 涤纶  \nD. 棉花",
+      "subject": "化学",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chemistry",
+      "date_added": "2026-05-04",
+      "active": true
+    },
+    {
+      "id": "K12-20260504-002",
+      "prompt": "**题目**  \n下列四个化学反应中，需要加入还原剂才能实现的是（　　）  \nA. Fe → Fe²⁺  \nB. Cu²⁺ → Cu  \nC. Cl₂ + 2NaOH → NaCl + NaClO + H₂O  \nD. MnO₄⁻ → Mn²⁺",
+      "subject": "化学",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chemistry",
+      "date_added": "2026-05-04",
+      "active": true
+    },
+    {
+      "id": "K12-20260504-003",
+      "prompt": "下列关于生活中常见物质的应用，说法不正确的是（已知次氯酸在光照下易分解，其漂白效果的适宜pH范围为4.5~5.0）\n\nA. 用pH为2的“84消毒液”擦拭大理石桌面，消毒效果最佳  \nB. 用次氯酸消毒后的物品应避光保存  \nC. 相同浓度下，漂白粉的漂白效果通常优于次氯酸溶液  \nD. 将“84消毒液”与洁厕灵混合使用可增强去污消毒效果",
+      "subject": "化学",
+      "grade": "高中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_chemistry",
+      "date_added": "2026-05-04",
+      "active": true
     }
   ]
 }
