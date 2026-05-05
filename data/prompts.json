@@ -335,6 +335,30 @@
       "source": "ceval/high_school_biology",
       "date_added": "2026-05-05",
       "active": true
+    },
+    {
+      "id": "K12-20260505-002",
+      "prompt": "小明学做煎饺，他把饺子煮熟放凉后，在平底锅里倒入50克植物油，开大火煎了10分钟，结果饺子底部变得焦黑。下列哪个做法可能是导致失败的原因？  \nA. 植物油量太多了  \nB. 煎制的时间太短了  \nC. 应该用小火慢煎  \nD. 饺子没有放凉就煎了",
+      "subject": "生物",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_biology",
+      "date_added": "2026-05-05",
+      "active": true
+    },
+    {
+      "id": "K12-20260505-003",
+      "prompt": "小明在整理学习资料时，为“记忆本”做了以下记录：  \n1. 数学组的记忆本是三次使用后形成的。  \n2. 记忆本可以长期保存。  \n3. 每次复习后，记忆本的数量会减少。  \n\n以上记录中，与实际情况不符的是第____条。",
+      "subject": "生物",
+      "grade": "小学",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_biology",
+      "date_added": "2026-05-05",
+      "active": true
     }
   ]
 }
