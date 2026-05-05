@@ -323,6 +323,18 @@
       "source": "ceval/high_school_chemistry",
       "date_added": "2026-05-04",
       "active": true
+    },
+    {
+      "id": "K12-20260505-001",
+      "prompt": "小明抄写一段文字作为作业模板。第一次抄写时，他把模板中的数字“6”错写成了“9”。之后，每次抄写都严格复制上一份的内容（包括可能存在的错误）。当所有人（包括小明最初错写的那份）一共抄写了3轮（即总共产生8份作业）后，包含这个错误“9”的作业占全部作业的几分之几？",
+      "subject": "生物",
+      "grade": "初中",
+      "ability": "解题能力",
+      "type": "选择题",
+      "risk": "正常",
+      "source": "ceval/high_school_biology",
+      "date_added": "2026-05-05",
+      "active": true
     }
   ]
 }
