@@ -575,6 +575,42 @@
       "source": "ceval/high_school_mathematics",
       "date_added": "2026-05-10",
       "active": true
+    },
+    {
+      "id": "K12-20260510-003",
+      "prompt": "已知抛物线 $y^2=2px$ 的焦点与椭圆 $\\frac{x^2}{4}+\\frac{y^2}{3}=1$ 的右焦点重合，请求出 $p$ 的值。请详细解释你是如何一步步计算出结果的。",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-10",
+      "active": true
+    },
+    {
+      "id": "K12-20260510-004",
+      "prompt": "要得到函数$g(x)=(x-1)^2$的图象，只需将$f(x)=x^2$的图象____。",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-10",
+      "active": true
+    },
+    {
+      "id": "K12-20260510-005",
+      "prompt": "**题目**：在平面直角坐标系中，若直线 \\( l_1 \\) 的一个方向向量为 \\(\\vec{v}_{",
+      "subject": "数学",
+      "grade": "初中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-10",
+      "active": true
     }
   ]
 }
