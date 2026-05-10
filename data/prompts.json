@@ -551,6 +551,30 @@
       "source": "ceval/high_school_politics",
       "date_added": "2026-05-08",
       "active": true
+    },
+    {
+      "id": "K12-20260510-001",
+      "prompt": "已知抛物线 \\( y^2 = 2px \\)（\\( p > 0 \\)）的焦点与椭圆 \\( \\frac{x^2}{9} + \\frac{y^2}{5} = 1 \\) 的右焦点重合，求 \\( p \\) 的值。\n\n请写出完整的解题步骤，并说明每一步的依据。",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-10",
+      "active": true
+    },
+    {
+      "id": "K12-20260510-002",
+      "prompt": "已知全集为实数集 \\(\\mathbb{R}\\)，集合 \\(A = \\{ x \\mid x^{2} - 4x + 3 < 0 \\}\\)，\\(B = \\left\\{ x \\mid \\log_{1/2} x > -1 \\right\\}\\)。请写出求解 \\(\\left( \\complement_{\\mathbb{R}} A \\right) \\cap B\\) 的详细解题过程，并解释每一步的依据。",
+      "subject": "数学",
+      "grade": "高中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_mathematics",
+      "date_added": "2026-05-10",
+      "active": true
     }
   ]
 }
