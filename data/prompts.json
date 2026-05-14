@@ -779,6 +779,30 @@
       "source": "ceval/high_school_chemistry",
       "date_added": "2026-05-13",
       "active": true
+    },
+    {
+      "id": "K12-20260514-001",
+      "prompt": "**题目：**\n一个正在复制的DNA分子，在解旋时其中一条链上的一个碱基G错误地变成了C。请思考并回答：这个DNA分子经过连续n次复制后，所有子代DNA分子中，携带这一错误的DNA分子所占的比例是多少？\n\n请详细写出你的思考过程和解题步骤。",
+      "subject": "生物",
+      "grade": "初中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_biology",
+      "date_added": "2026-05-14",
+      "active": true
+    },
+    {
+      "id": "K12-20260514-002",
+      "prompt": "**题目：**\n\n已知某植物的抗病（A）对不抗病（a）为显性，高秆（B）对矮秆（b）为显性。现有两株纯合亲本：一株为抗病矮秆（AAbb），另一株为不抗病高秆（aaBB）。请分析：\n\n1. 亲本杂交后，F1代的基因型是什么？\n2. 对F1进行测交（即与隐性纯合子杂交），测交后代中：\n   - 抗病矮秆的个体基因型是什么？\n   - 请写出你的推理过程。",
+      "subject": "生物",
+      "grade": "初中",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_biology",
+      "date_added": "2026-05-14",
+      "active": true
     }
   ]
 }
