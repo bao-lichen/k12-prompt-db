@@ -803,6 +803,18 @@
       "source": "ceval/high_school_biology",
       "date_added": "2026-05-14",
       "active": true
+    },
+    {
+      "id": "K12-20260514-003",
+      "prompt": "观察：在显微镜下看到植物细胞分裂快结束时，细胞中间出现了一个“隔板”，周围有许多小泡泡在移动。\n\n问题：\n1. 这些小泡泡可能来自细胞里的哪个结构？\n2. 它们可能正在运输什么物质去建造新的“隔板”？\n\n（提示：想象细胞要分成两半，就像用砖墙隔开房间。这些小泡泡就像运砖的小车。）",
+      "subject": "生物",
+      "grade": "小学",
+      "ability": "解析讲解",
+      "type": "解答题",
+      "risk": "正常",
+      "source": "ceval/high_school_biology",
+      "date_added": "2026-05-14",
+      "active": true
     }
   ]
 }
